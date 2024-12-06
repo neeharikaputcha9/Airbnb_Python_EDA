@@ -1,4 +1,4 @@
-# Airbnb_Python_EDA
+# Airbnb_analysis_Python_EDA_Data Viz.
 Analysis of Airbnb data using Python, EDA and Data Viz
 
 ## Objective
